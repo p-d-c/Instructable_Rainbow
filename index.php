@@ -1,5 +1,5 @@
 <?php
 
-include_one("./public/rainbow.html")
+include_one("./index.html")
 
 ?>
